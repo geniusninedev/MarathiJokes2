@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_home_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+android:orientation="vertical"
+    android:background="@drawable/lightbg"
+    tools:context="com.geniusnine.android.marathijokes.HomePage">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="115dp"
+            android:background="@drawable/funnyjokes"
+            android:textColor="@android:color/white"
+            android:id="@+id/ButtonJokes"
+            android:gravity="center"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="30dp"
+            android:paddingTop="70sp"
+            android:drawablePadding="-15sp">
+
+        </Button>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="115dp"
+            android:background="@drawable/graffiti"
+            android:textColor="@android:color/white"
+            android:id="@+id/ButtonGraffiti"
+            android:gravity="center"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="30dp"
+            android:paddingTop="70sp"
+            android:drawablePadding="-15sp">
+
+        </Button>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="115dp"
+            android:background="@drawable/jokess"
+            android:textColor="@android:color/white"
+            android:id="@+id/ButtonFunny"
+            android:gravity="center"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="30dp"
+            android:paddingTop="70sp"
+            android:drawablePadding="-15sp">
+
+        </Button>
+
+
+    </LinearLayout>
+
+
+</ScrollView>
+
+
+</RelativeLayout>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.geniusnine.android.marathijokes">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/joke"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Joke"
+            android:label="@string/title_activity_joke"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Best.Best"
+            android:label="@string/app_name91" />
+        <activity
+            android:name=".Best.BestJoke"
+            android:label="@string/app_name91" />
+        <activity
+            android:name=".Funny.Funny"
+            android:label="@string/app_name7" />
+        <activity
+            android:name=".Funny.FunnyJoke"
+            android:label="@string/app_name7" />
+        <activity
+            android:name=".WhatsApp.WhatsApp"
+            android:label="@string/app_name0" />
+        <activity
+            android:name=".WhatsApp.WhatsAppJoke"
+            android:label="@string/app_name0" />
+        <activity
+            android:name=".Rajnikant.Rajnikant"
+            android:label="@string/app_name19" />
+        <activity
+            android:name=".Rajnikant.RajnikantJoke"
+            android:label="@string/app_name19" />
+        <activity
+            android:name=".Ganya.Ganya"
+            android:label="@string/app_name40" />
+        <activity
+            android:name=".Ganya.GanyaJoke"
+            android:label="@string/app_name40" />
+        <activity
+            android:name=".Vakil.Vakil"
+            android:label="@string/app_name5" />
+        <activity
+            android:name=".Vakil.VakilJoke"
+            android:label="@string/app_name4" />
+        <activity
+            android:name=".Engineer.Engineer"
+            android:label="@string/app_name45" />
+        <activity
+            android:name=".Engineer.EngineerJoke"
+            android:label="@string/app_name45" />
+        <activity
+            android:name=".Kids.Kids"
+            android:label="@string/app_name21" />
+        <activity
+            android:name=".Kids.KidsJokes"
+            android:label="@string/app_name21" />
+        <activity
+            android:name=".Puneri.Puneri"
+            android:label="@string/app_name80" />
+        <activity
+            android:name=".Puneri.PuneriJokes"
+            android:label="@string/app_name80" />
+        <activity
+            android:name=".FunnyImages.FunnyImages"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="@string/app_name89" />
+        <activity
+            android:name=".Graffiti.Graffiti"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="@string/app_name56" />
+
+        <activity
+            android:name=".Navra.Navra"
+            android:label="@string/app_name30" />
+        <activity
+            android:name=".Navra.NavraJokes"
+            android:label="@string/app_name30" />
+        <activity
+            android:name=".Sardar.Sardar"
+            android:label="@string/app_name35" />
+        <activity
+            android:name=".Sardar.SardarJokes"
+            android:label="@string/app_name35" />
+        <activity
+            android:name=".Love.Love"
+            android:label="@string/app_name31" />
+        <activity
+            android:name=".Love.LoveJokes"
+            android:label="@string/app_name31" />
+        <activity
+            android:name=".Stories.Stories"
+            android:label="@string/app_name33" />
+        <activity
+            android:name=".Stories.StoriesDetail"
+            android:label="@string/app_name33" />
+        <activity android:name=".HomePage"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Marathi Jokes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_joke">Joke</string>
+
+    <string name="action_send">Send</string>
+    <string name="app_name6">BestJoke</string>
+    <string name="app_name7">Funny Jokes</string>
+    <string name="app_name9">Best Jokes</string>
+    <string name="app_name0">WhatsApp Funny Jokes</string>
+    <string name="app_name1">Rajnikant Jokes</string>
+    <string name="app_name4">Ganya Jokes</string>
+    <string name="app_name3">Doctor Jokes</string>
+    <string name="app_name44">Engineer Jokes</string>
+    <string name="app_name21">Kids Jokes</string>
+    <string name="app_name87">Puneri Jokes</string>
+    <string name="app_name90">Rating App</string>
+    <string name="app_name34">Navra-Bayko Jokes</string>
+    <string name="app_name36">Sardarji Jokes</string>
+    <string name="app_name39">Love Jokes</string>
+    <string name="app_name56">Graffiti</string>
+    <string name="app_name89">Funny Images</string>
+    <string name="app_name37">Marathi Funny Stories</string>
+    <string name="app_name80">पुणेरी Jokes</string>
+    <string name="app_name30">नवरा-बायको Jokes</string>
+    <string name="app_name35">सरदारजी Jokes</string>
+    <string name="app_name31">प्रेमहास्य</string>
+    <string name="app_name33">मराठी विनोदी कथा</string>
+    <string name="app_name45">इंजिनीअर Jokes</string>
+    <string name="app_name5">डॉक्टर Jokes</string>
+    <string name="app_name19">रजनीकांत Jokes</string>
+    <string name="app_name40">गण्या Jokes</string>
+    <string name="app_name91">Best Marathi Jokes</string>
+</resources>
